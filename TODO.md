@@ -5,27 +5,32 @@ Here will be the list of softwares to install.
 #Player
 #
 - [VLC] [vlc];
+
 #
 #Video
 #
 - [Kdenlive] [kdenlive];
 #
 - [AVISynth+] [avisynth];
+
 #
 #Image
 #
 - [RAWTherapee] [rawtherapee];
 - [GIMP] [gimp];
 - [Imagemagick] [imagemagick];
+
 #
 #Audio
 #
 - [Ardour] [ardour];
 - [Audacity] [audacity];
+
 #
 #3D Manipulation
 #
 - [Blender] [blender];
+
 #
 #Enginer manipulation
 #
