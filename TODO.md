@@ -10,6 +10,7 @@ Here will be the list of softwares to install.
 #Video
 #
 - [Kdenlive] [kdenlive];
+
 #
 - [AVISynth+] [avisynth];
 
@@ -36,6 +37,7 @@ Here will be the list of softwares to install.
 #
 - [FreeCAD] [freecad];
 - [OpenSCAD] [openscad].
+
 #
 #
 #
